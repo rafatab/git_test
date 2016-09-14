@@ -11,3 +11,5 @@ test develop1
 CREATE CONFLICT 1
 
 CREATE CONFLICT 2 - FEATURE
+
+conflict master
