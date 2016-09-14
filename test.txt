@@ -7,3 +7,5 @@ test amend1
 test amend2
 
 test develop1
+
+CREATE CONFLICT 1
