@@ -12,4 +12,8 @@ CREATE CONFLICT 1
 
 CREATE CONFLICT 2 - FEATURE
 
+<<<<<<< HEAD
 conflict master
+=======
+CREATE CONFLICT 3 - FEATURE
+>>>>>>> refs/remotes/origin/features/feature2
